@@ -1,0 +1,24 @@
+{
+  "name": "random-string-msg-masr",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertoMasr/random-string-msg-masr.git"
+  },
+  "keywords": [],
+  "author": "Manuel Alberto Sotelo Rivas <albertomasr@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertoMasr/random-string-msg-masr/issues"
+  },
+  "homepage": "https://github.com/AlbertoMasr/random-string-msg-masr#readme",
+  "bin": {
+    "random-string-msg-masr": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
